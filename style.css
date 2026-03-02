@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: url('images/Iroko-Logo.jpg') center/cover no-repeat;
+    background: url('../images/Iroko-Logo.jpg') center/cover no-repeat;
     height: 90vh;
     display: flex;
     align-items: center;
@@ -187,4 +187,5 @@ footer {
     to { opacity: 1; transform: translateY(0); }
 
 }
+
 
